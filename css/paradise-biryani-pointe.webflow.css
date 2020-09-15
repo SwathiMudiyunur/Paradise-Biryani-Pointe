@@ -159,10 +159,10 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(32, 39, 47, 0.97)), to(rgba(32, 39, 47, 0.97))), url('../images/photo-1452776145041-517a74be1f14.jpeg');
-  background-image: linear-gradient(180deg, rgba(32, 39, 47, 0.97), rgba(32, 39, 47, 0.97)), url('../images/photo-1452776145041-517a74be1f14.jpeg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(32, 39, 47, 0.89)), to(rgba(32, 39, 47, 0.89))), url('../images/marion-botella-uaHShoIDGeo-unsplash.jpg');
+  background-image: linear-gradient(180deg, rgba(32, 39, 47, 0.89), rgba(32, 39, 47, 0.89)), url('../images/marion-botella-uaHShoIDGeo-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
-  background-size: auto, auto;
+  background-size: auto, cover;
   background-repeat: repeat, no-repeat;
   background-attachment: scroll, fixed;
 }
